@@ -5,7 +5,7 @@ Week 10-11 Honeypot
 * I deployed only one Honeypot as dionaea.
 
 * <img src="https://github.com/abreyesromo/Week10-11-ABE/blob/master/images/Week10-11_5-!st.png">
-##Json Location
+## Json Location
 * https://github.com/abreyesromo/Week10-11-ABE/blob/master/Json/session.json
 
 ## Any issues you encountered
@@ -20,5 +20,5 @@ Week 10-11 Honeypot
 * <img src="https://github.com/abreyesromo/Week10-11-ABE/blob/master/images/Week10-11_1:nmap.png">
 ####
 ## Any unresolved questions raised by the data collected
-* Why cound i get the information from the honeypot?
+* Why couldn't I get the information from the honeypot?
 * <img src="https://github.com/abreyesromo/Week10-11-ABE/blob/master/images/Week10-11_4-Error.png">
